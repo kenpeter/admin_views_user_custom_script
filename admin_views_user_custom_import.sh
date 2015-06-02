@@ -4,6 +4,8 @@
 SOURCE_DIR="/var/www/test/testme/admin_views_user_custom/source"
 
 # Output
+echo "\nln -s this script in your bin directory\n"
+
 echo "\nPlease patch views to support views-import and views-export\n"
 
 echo "\nYou should be sitting under a website directory\n"
